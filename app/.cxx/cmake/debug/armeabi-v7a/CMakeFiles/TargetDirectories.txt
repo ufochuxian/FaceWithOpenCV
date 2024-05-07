@@ -1,0 +1,6 @@
+/Users/chen/Documents/opensource/FaceWithOpenCV/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/chen/Documents/opensource/FaceWithOpenCV/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/chen/Documents/opensource/FaceWithOpenCV/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir
+/Users/chen/Documents/opensource/FaceWithOpenCV/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/FaceAlignment/CMakeFiles/rebuild_cache.dir
+/Users/chen/Documents/opensource/FaceWithOpenCV/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/FaceAlignment/CMakeFiles/edit_cache.dir
+/Users/chen/Documents/opensource/FaceWithOpenCV/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/FaceAlignment/CMakeFiles/seeta_fa_lib.dir

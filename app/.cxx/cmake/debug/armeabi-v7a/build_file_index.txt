@@ -1,0 +1,2 @@
+/Users/chen/Documents/opensource/FaceWithOpenCV/app/CMakeLists.txt
+/Users/chen/Documents/opensource/FaceWithOpenCV/app/src/main/cpp/FaceAlignment/CMakeLists.txt

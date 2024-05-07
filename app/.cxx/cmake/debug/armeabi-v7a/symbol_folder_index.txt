@@ -1,0 +1,1 @@
+/Users/chen/Documents/opensource/FaceWithOpenCV/app/build/intermediates/cmake/debug/obj/armeabi-v7a

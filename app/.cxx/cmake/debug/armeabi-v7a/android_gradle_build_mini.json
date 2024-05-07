@@ -1,0 +1,46 @@
+{
+  "buildFiles": [
+    "/Users/chen/Documents/opensource/FaceWithOpenCV/app/CMakeLists.txt",
+    "/Users/chen/Documents/opensource/FaceWithOpenCV/app/src/main/cpp/FaceAlignment/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/chen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/chen/Documents/opensource/FaceWithOpenCV/app/.cxx/cmake/debug/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/chen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/chen/Documents/opensource/FaceWithOpenCV/app/.cxx/cmake/debug/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib-Debug-armeabi-v7a": {
+      "artifactName": "native-lib",
+      "buildCommandComponents": [
+        "/Users/chen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/chen/Documents/opensource/FaceWithOpenCV/app/.cxx/cmake/debug/armeabi-v7a",
+        "native-lib"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/Users/chen/Documents/opensource/FaceWithOpenCV/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
+      "runtimeFiles": []
+    },
+    "seeta_fa_lib-Debug-armeabi-v7a": {
+      "artifactName": "seeta_fa_lib",
+      "buildCommandComponents": [
+        "/Users/chen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/chen/Documents/opensource/FaceWithOpenCV/app/.cxx/cmake/debug/armeabi-v7a",
+        "seeta_fa_lib"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/Users/chen/Documents/opensource/FaceWithOpenCV/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/FaceAlignment/libseeta_fa_lib.a",
+      "runtimeFiles": []
+    }
+  }
+}
